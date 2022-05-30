@@ -1,0 +1,32 @@
+E:\Users\Willy\source\repos\prueba xd\bin\Debug\prueba xd.exe.config
+E:\Users\Willy\source\repos\prueba xd\bin\Debug\prueba xd.exe
+E:\Users\Willy\source\repos\prueba xd\bin\Debug\prueba xd.pdb
+E:\Users\Willy\source\repos\prueba xd\obj\Debug\prueba xd.csproj.AssemblyReference.cache
+E:\Users\Willy\source\repos\prueba xd\obj\Debug\prueba xd.csproj.SuggestedBindingRedirects.cache
+E:\Users\Willy\source\repos\prueba xd\obj\Debug\prueba_xd.Form1.resources
+E:\Users\Willy\source\repos\prueba xd\obj\Debug\prueba_xd.Properties.Resources.resources
+E:\Users\Willy\source\repos\prueba xd\obj\Debug\prueba xd.csproj.GenerateResource.cache
+E:\Users\Willy\source\repos\prueba xd\obj\Debug\prueba xd.csproj.CoreCompileInputs.cache
+E:\Users\Willy\source\repos\prueba xd\obj\Debug\prueba xd.exe
+E:\Users\Willy\source\repos\prueba xd\obj\Debug\prueba xd.pdb
+E:\Users\Willy\source\repos\prueba xd\obj\Debug\prueba_xd.Form2.resources
+E:\Escritorio\backup progra\prueba xd\bin\Debug\prueba xd.exe.config
+E:\Escritorio\backup progra\prueba xd\bin\Debug\prueba xd.exe
+E:\Escritorio\backup progra\prueba xd\bin\Debug\prueba xd.pdb
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba xd.csproj.AssemblyReference.cache
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba xd.csproj.SuggestedBindingRedirects.cache
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.Properties.Resources.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba xd.csproj.GenerateResource.cache
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba xd.csproj.CoreCompileInputs.cache
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba xd.exe
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba xd.pdb
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.login.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.alumnos.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.administrador.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.cursos.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.catedratico.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.notas.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.insertmaestros.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.insertCurso.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.insertAdmin.resources
+E:\Escritorio\backup progra\prueba xd\obj\Debug\prueba_xd.insertAlumnos.resources
