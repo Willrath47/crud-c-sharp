@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-counter/static/css/main.14535e05.css",
-    "main.js": "/react-counter/static/js/main.02246943.js",
-    "static/media/vectorpaint.svg": "/react-counter/static/media/vectorpaint.738a9880a96c5e85529651f5e0d84002.svg",
-    "static/media/wave.svg": "/react-counter/static/media/wave.0975bc5e2296d2f37f08.svg",
-    "static/media/wave2.svg": "/react-counter/static/media/wave2.b4e439bc2f33bfa5d09d.svg",
-    "index.html": "/react-counter/index.html",
-    "main.14535e05.css.map": "/react-counter/static/css/main.14535e05.css.map",
-    "main.02246943.js.map": "/react-counter/static/js/main.02246943.js.map"
+    "main.css": "/react-calculator/static/css/main.f8c0810a.css",
+    "main.js": "/react-calculator/static/js/main.a1dbeb82.js",
+    "static/media/blob.svg": "/react-calculator/static/media/blob.84b2409943c0680c323d.svg",
+    "static/media/vectorpaint (1).svg": "/react-calculator/static/media/vectorpaint (1).47681b2b7c7d1126d8d4b15a5cbafdf0.svg",
+    "index.html": "/react-calculator/index.html",
+    "main.f8c0810a.css.map": "/react-calculator/static/css/main.f8c0810a.css.map",
+    "main.a1dbeb82.js.map": "/react-calculator/static/js/main.a1dbeb82.js.map"
   },
   "entrypoints": [
-    "static/css/main.14535e05.css",
-    "static/js/main.02246943.js"
+    "static/css/main.f8c0810a.css",
+    "static/js/main.a1dbeb82.js"
   ]
 }
